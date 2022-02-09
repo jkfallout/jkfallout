@@ -2,12 +2,13 @@
 Meu Perfil
 
 # JÉSSIKA FRANCO
+** viva a vida com a mente aberta e com a atitude de # "vamos fazer isso dar certo" # se sua vontade efetivamente para melhorar o processo criativo e não para inibilo**
 
 - 👋 Olá, sou @jkfallout
-- 👀 Estou interessado em Aprimoramento
-- 🌱 Atualmente estou aprendendo python
-- 💞️ Estou procurando colaborar em projetos de desenvolvimento
-- 
+- 👀 Estou interessada em Aprimoramento
+- 🌱 Atualmente estou aprendendo PYTHON
+- 💞️ Procuro sempre colaborar em projetos de desenvolvimento 
+
 <div align="center">
   
   <a href="https://github.com/jkfallout">
