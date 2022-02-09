@@ -2,7 +2,7 @@
 Meu Perfil
 
 # JÉSSIKA FRANCO
-** viva a vida com a mente aberta e com a atitude de # "vamos fazer isso dar certo" # se sua vontade efetivamente para melhorar o processo criativo e não para inibilo**
+** viva a vida com a mente aberta e com a atitude de "vamos fazer isso dar certo"  se sua vontade efetivamente para melhorar o processo criativo e não para inibilo**
 
 - 👋 Olá, sou @jkfallout
 - 👀 Estou interessada em Aprimoramento
